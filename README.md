@@ -10,6 +10,7 @@ The FINANCIALS-SELES-POWER-BI project is a comprehensive financial analytics das
 With interactive visualizations and real-time data analysis capabilities, this dashboard helps businesses make informed decisions by highlighting opportunities for growth, areas of concern, and patterns within sales data.
 
 🔧 Key Features
+
 📈 Sales Performance Analysis
 Visual representation of overall sales performance, including growth trends and target achievement.
 
