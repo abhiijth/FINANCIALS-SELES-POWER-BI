@@ -1,5 +1,7 @@
 📊 FINANCIALS-SELES-POWER-BI
+
 🔗 Project Link
+https://github.com/abhiijth/FINANCIALS-SELES-POWER-BI
 
 Description
 A Power BI dashboard designed to analyze and visualize financial sales data. This project provides insights into sales performance, revenue trends, and other key financial metrics to help businesses make data-driven decisions.
